@@ -9,5 +9,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "<h1 align=\"center\">📝 MERN Stack- iThinkPad App ✨</h1>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sm-multimedia/iThinkPad.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sm-multimedia/iThinkPad/issues"
+  },
+  "homepage": "https://github.com/sm-multimedia/iThinkPad#readme"
 }
